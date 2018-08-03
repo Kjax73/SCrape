@@ -1,16 +1,16 @@
 # SCrape
-SCrape is a tool built to join all available raffles on scrap.tf, pretty simple
+SCrape is a tool built to join all available raffles on scrap.tf, pretty simple.
 
 # Features
-Will join all raffles as quickly as your internet/computer will allow
-Automatically detects and alerts of captchas(Windows only for alert sound)
-Relatively undetectable(untested lol, but i haven't been banned yet)
+Will join all raffles as quickly as your internet/computer will allow.
+Automatically detects and alerts of captchas(Windows only for alert sound).
+Relatively undetectable(untested lol, but i haven't been banned yet).
 
 # Requirements
-Chrome
-Python 2.7 w/ Selenium
-Windows, if you want the alert sound to work
-Half a brain
+Chrome.
+Python 2.7 w/ Selenium.
+Windows, if you want the alert sound to work.
+Half a brain.
 
 # Setup
 1. Download Chrome and Chromedriver
