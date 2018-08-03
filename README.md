@@ -1,7 +1,11 @@
 # SCrape
 SCrape is a tool built to join all available raffles on scrap.tf, pretty simple.
 
+# Warning
+Obviously against the raffle rules, not my fault if you get banned
+
 # Features
+To my knowledge of looking a other scripts, I beleive currently mine is the only one that has capthca detection, therefore it will work 100% more than the others I have looked at.
 Will join all raffles as quickly as your internet/computer will allow.
 Automatically detects and alerts of captchas(Windows only for alert sound).
 Relatively undetectable(untested lol, but I haven't been banned yet).
