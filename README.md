@@ -4,7 +4,7 @@ SCrape is a tool built to join all available raffles on scrap.tf, pretty simple.
 # Features
 Will join all raffles as quickly as your internet/computer will allow.
 Automatically detects and alerts of captchas(Windows only for alert sound).
-Relatively undetectable(untested lol, but i haven't been banned yet).
+Relatively undetectable(untested lol, but I haven't been banned yet).
 
 # Requirements
 Chrome.
